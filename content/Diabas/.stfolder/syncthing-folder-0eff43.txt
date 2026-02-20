@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: thpd4-kk2cw
-created: 2026-02-04T23:47:42-05:00
