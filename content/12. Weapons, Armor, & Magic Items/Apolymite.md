@@ -7,7 +7,7 @@ The crystals form in naturally long, flat blades similar to a sword. The edges a
 
 Some adventurers use the crystal as their primary sword, due to its capabilities to cleave through flesh and sometimes even armor. Such swords are carefully cut out from their crystal clusters, leaving the stone base attached to be carved into and used as a handle. Such work is considered artisinal, and therefore it's extremely expensive to obtain a sword like this.
 
-Ongoing theory by the [[Worship of the Old Gods]] states that [[Eibher (Light)]] may have been killed using a sword made of this, saying it's the only thing that could pierce through true godly flesh and withstand her body heat.
+Ongoing theory by the [[07. Spirituality & Religion/Worship of the Old Gods]] states that [[08. Gods & Demigods/Eibher (Light)]] may have been killed using a sword made of this, saying it's the only thing that could pierce through true godly flesh and withstand her body heat.
 
 
 > [!TIP] `ris:Sword` Apolymite Sword

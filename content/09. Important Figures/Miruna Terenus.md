@@ -1,5 +1,5 @@
 # Miruna Terenus, The Vigilant
-Miruna Terenus is a [[Tiefling]] Cleric adventurer best known for her time as a member of [[The Righteous 8]]. Her title in the group was The Vigilant, named for her swift thinking that saved the party on numerous occasions. After retiring from adventuring she settled in [[Enyhit]], [[Mitcra]], where she started a family.
+Miruna Terenus is a [[Tiefling]] Cleric adventurer best known for her time as a member of [[06. Groups/The Righteous 8]]. Her title in the group was The Vigilant, named for her swift thinking that saved the party on numerous occasions. After retiring from adventuring she settled in [[Enyhit]], [[01. Countries/Mitcra]], where she started a family.
 
 ### Personal Life
 

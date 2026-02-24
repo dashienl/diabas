@@ -1,1 +1,1 @@
-*Natura Phenomenicon* is a nonfiction anthology series by author [[Elestai Theketta]].
+*Natura Phenomenicon* is a nonfiction anthology series by author [[09. Important Figures/Elestai Theketta]].
