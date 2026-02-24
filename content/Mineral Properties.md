@@ -1,3 +1,8 @@
+---
+title:
+draft: true
+tags:
+---
 Ability: 
 Sapphire - Concentration (can be used as a second focus in spellcasting) 
 Ruby - Defense (higher ac) 

@@ -1,7 +1,7 @@
 ---
 title: Diabas (The World)
 draft: false
-tags: homepage
+tags:
 ---
 # Diabas
 *For as long as you've known, the sky has been dark aside from the stars. The distance between your world and the nearest one is unfathomable. But that's not of any importance to you. You sit betwixt the earth and sky, illuminated by magical lights. You listen to tall tales of tall gods, and of kings who've slain them. You pass time watching the moon and it's satellites orbit each other. You wonder about what you don't know.*

@@ -1,8 +1,14 @@
+---
+title:
+draft: true
+tags:
+---
+
 [[Aithein]]: The country of Light. Lead by King Apollo. 
-[[Chanoma]]
-[[Epatsi]]
-[[Fysi Isles]]
+[[Chanoma]]: The country of Death.
+[[Epatsi]]: The
+[[Fysi Isles]]: The country of Nature.
 [[Mitcra]]
 [[Norizon]]
-[[Polemo]]: The country of War. Lead by Terisa the Indomitable.
+[[Polemo]]: The country of War. 
 [[Thyella]]

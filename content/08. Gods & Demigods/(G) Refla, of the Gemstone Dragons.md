@@ -1,0 +1,1 @@
+Child of [[(G) Taral, of the Chromatic Dragons]] and [[(G) Anima, of the Metallic Dragons]], and the only Prismatic dragon.
