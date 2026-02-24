@@ -1,2 +1,0 @@
-# Thyella
-Thyella is an island country located in the southeast octant of Diabas. The terrain is highly developed and densely populated, with a majority of buildings in the country taking form of skyscrapers and multi-story towers.

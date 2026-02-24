@@ -1,1 +1,0 @@
-Oriflamme is an [[Apolymite]] Rapier 
