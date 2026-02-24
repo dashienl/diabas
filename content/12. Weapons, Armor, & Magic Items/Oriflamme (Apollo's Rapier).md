@@ -1,0 +1,1 @@
+Oriflamme is an [[12. Weapons, Armor, & Magic Items/Apolymite]] Rapier 
