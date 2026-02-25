@@ -1,0 +1,29 @@
+.callout[data-callout="weapon"] {
+    --callout-color: 0, 0, 0;
+    --callout-icon: lucide-swords;
+}
+
+.callout[data-callout="spell"] {
+    --callout-color: 0, 0, 0;
+    --callout-icon: lucide-sparkles;
+}
+
+.callout[data-callout="item"] {
+    --callout-color: 0, 0, 0;
+    --callout-icon: lucide-pocket-knife;
+}
+
+.callout[data-callout="enemy"] {
+    --callout-color: 0, 0, 0;
+    --callout-icon: lucide-user-round-x;
+}
+
+.callout[data-callout="npc"] {
+    --callout-color: 0, 0, 0;
+    --callout-icon: lucide-user-star;
+}
+
+.callout[data-callout="animal"] {
+    --callout-color: 0, 0, 0;
+    --callout-icon: lucide-rabbit;
+}

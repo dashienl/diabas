@@ -10,7 +10,7 @@ Some adventurers use the crystal as their primary sword, due to its capabilities
 Ongoing theory by the [[Worship of the Old Gods]] states that [[Eibher (Light)]] may have been killed using a sword made of this, saying it's the only thing that could pierce through true godly flesh and withstand her body heat.
 
 
-> [!TIP] `ris:Sword` Apolymite Sword
+> [!weapon] Apolymite Sword
 Magic Weapon (Melee, sword), Very Rare
 >
 Finesse, light
