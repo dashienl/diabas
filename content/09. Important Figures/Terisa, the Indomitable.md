@@ -1,1 +1,0 @@
-Terisa is a [[Dragonborn]] Fighter adventurer best known for her time as a member of [[05. Institutions & Groups/The Righteous 8]]. Her title in the group was The Indomitable, which is a title she still carries, and was named for her extreme battle skills and brutality in combat. 
