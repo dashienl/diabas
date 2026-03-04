@@ -1,1 +1,1 @@
-Oriflamme is an [[12. Weapons, Armor, & Magic Items/Apolymite]] Rapier 
+Oriflamme is an [[12. Weapons, Armor, & Magic Items/Apolymite]] Rapier specially designed for [[09. Important Figures/King Apollo Ansaldo]]. 

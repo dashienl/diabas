@@ -1,6 +1,6 @@
 Standard calendar for the world of Diabas. Based on the rotation of the moon and its three comets.
 
-One moon (day) consists of 24 hours. Each moon begins and ends at moonrise.
+One moon (day) consists of roughly 24 hours. Each moon begins and ends at moonrise.
 One sennit (week) consists of 5 moons. A new one begins when Comet Sennit reappears on the right side of the moon.
 One month consists of 9 even sennits, with the exception of Blácerna having 10. A new one begins at a roughly different point each year. Comet Monath enters on the top right, exits on the bottom left of the moon.
 One year contains 8 months, or 365 moons exactly. The new year ends and begins when Comet Era is in the direct middle of the moon. Enters bottom right, exits top left.

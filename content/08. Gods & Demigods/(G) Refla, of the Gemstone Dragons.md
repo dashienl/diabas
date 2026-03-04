@@ -1,1 +1,1 @@
-Child of [[(G) Taral, of the Chromatic Dragons]] and [[(G) Anima, of the Metallic Dragons]], and the only Prismatic dragon.
+Child of [[08. Gods & Demigods/(G) Taral, of the Chromatic Dragons]] and [[08. Gods & Demigods/(G) Anima, of the Metallic Dragons]], and the only Prismatic dragon.

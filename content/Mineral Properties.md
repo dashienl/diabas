@@ -1,8 +1,11 @@
 ---
-title:
+publish: true
 draft: true
-tags:
+created: 2026-02-23T22:15:41.604-05:00
+modified: 2026-02-24T14:58:21.702-05:00
+cssclasses: ""
 ---
+
 Ability: 
 Sapphire - Concentration (can be used as a second focus in spellcasting) 
 Ruby - Defense (higher ac) 

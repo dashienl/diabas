@@ -1,8 +1,11 @@
 ---
-title:
+publish: true
 draft: true
-tags:
+created: 2026-02-23T22:15:41.414-05:00
+modified: 2026-02-24T14:58:31.854-05:00
+cssclasses: ""
 ---
+
 Lolly Lantern 
 2 for 1gp 
 _Popular during festival seasons. Children hold them up like sparklers and draw in the air._
