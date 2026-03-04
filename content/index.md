@@ -2,7 +2,7 @@
 publish: true
 title: Diabas (The World)
 created: 2026-02-23T22:15:41.669-05:00
-modified: 2026-03-04T00:22:48.350-05:00
+modified: 2026-03-04T00:32:54.076-05:00
 cssclasses: ""
 ---
 
@@ -34,26 +34,26 @@ In response to the general darkness and coolness of the world, animals have adap
 
 A majority of animals have some tolerance to magic, either adapting to use it for themselves or resisting effects of long term magic exposure. They may have dedicated organs and systems for processing raw magic, producing spells, or avoiding toxicity. They may also be psuedo or entirely intelligent - capable of processing language, forming governed societies, creating art/tools, etc. It's unknown if this is a byproduct of magic or a natural step in their evolutions.
 
-[[11. Flora & Fauna/]]
+[[11. Flora & Fauna/\|See a list of Flora and Fauna here.]]
 
 ### Sociology
 At one point in history, different races were relatively isolated from eachother. This changed after The Melding happened, which forced these isolated civilizations to work together and create a melting pot of cultures.
 
-[[00. History & Events/Timeline]]
+[[00. History & Events/Timeline\|See the Timeline here.]]
 
 ##### Sapient, Sentient, and Sophont Species
 All of these species still have remnants of their old cultures and may trend towards certain behaviors, speak certain languages, make culturally important foods and objects, or find themselves gravitating towards people who share their history. There will always be exceptions to this though, especially if an individual never grew up around those of their same species. 
 
 Many settlements exist where a majority of the individuals in them come from one or a small group of races. 
 
-[[10. Sapient, Sentient, and Sophont Species/]]
+[[10. Sapient, Sentient, and Sophont Species/\|See a list of species here.]]
 
 ##### Religion and Spirituality
 There are a wide variety of belief systems in Diabas. The majority of people dedicate a portion of their lives to some type of these. What someone may believe can vary, including singular god worship, pantheon worship, or an abstract belief system (such as worship to dead gods, worship of groups, or paladin-like devotion to rules).
 
 If someone isn't devoting themselves to a god or belief system, they may be deliberately avoiding such devotions. This irreligion acknowledges gods/groups and any benefits their worship may bring, but ignores them in favor of putting more energy into caring for the self or for other mortal beings.
 
-[[07. Spirituality & Religion/]]
+[[07. Spirituality & Religion/\|See a list of belief systems here.]]
 
 It's also possible for someone to ascend to godhood or demigod status through them being worshipped. If someone gains and maintains followers, devises a symbol and strict belief system, and claims a title, then they have all they need to start this process. The strength and reach of your god powers depends on just how many individuals you have in your following. You may slow or stop aging, become resistant to damages, become stronger, etc.
 
@@ -61,5 +61,5 @@ Ascencion is not permanent - you must continue to hold a steady following, other
 
 This is strictly different from the Core Gods, who embody their elements and beliefs so wholly that devotion to themselves specifically does not matter.
 
-[[08. Gods and Demigods/]]
+[[08. Gods and Demigods/\|See a list of gods here.]]
 
