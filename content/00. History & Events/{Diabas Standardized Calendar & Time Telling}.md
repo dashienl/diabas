@@ -7,7 +7,7 @@ One year contains 8 months, or 365 moons exactly. The new year ends and begins w
 
 The calendar is split into 2 4-month spans - the lighter half of the year (containing Spring and Summer) and the darker half of the year (Fall and Winter.) Due to the lack of a major star, it can be kind of hard to tell what the season is by weather. Therefore, seasons are split hard to equal two months no matter what. The lighter half seasons have a brighter moon from reflection of the nearby minor stars, as opposed to the darker half.
 
-The 10th sennit of Blácerna is known as "Fading Sennit" or "Mourning Sennit". It's celebrated in Aithein as a memorial for the goddess of light. Worldwide it marks the period where the moon grows darker over the sennit at a rapid pace. There is no equivalent for the transition from dark back to light.
+The 10th sennit of Blácerna is known as "Fading Sennit" or "Mourning Sennit". It's celebrated in Aithein as a memorial for the Core of light. Worldwide it marks the period where the moon grows darker over the sennit at a rapid pace. There is no equivalent for the transition from dark back to light.
 
 LIGHTER HALF
 Gewiderea (Tempest's Month) [Spring]

@@ -2,7 +2,7 @@
 publish: true
 title: Diabas (The World)
 created: 2026-02-23T22:15:41.669-05:00
-modified: 2026-03-04T00:32:54.076-05:00
+modified: 2026-05-31T18:35:25.007-04:00
 cssclasses: ""
 ---
 
@@ -11,11 +11,13 @@ cssclasses: ""
 
 ---
 ### Geography
-The world of Diabas is small but densely packed, around 19,500mi in diameter. At one point in history the world was mostly land, but now it has sizeable oceans splitting the 8 countries between 7 notable masses and many smaller islands.
-
-Diabas is located within the material plane, hosting the surface and the Underdark. It contains many subplanes that share it's planetary boundaries within such as the Feywilds and the Ethereal, as well as planes which are finite but similarly shaped like the Nine Hells, God Core, and Celestia. Planes such as the Astral plane, Elemental Chaoses, Positive and Negative Energy planes, the Inbetween, and the Realm of Dreams are infinite planes not necessarily bound to Diabas.
+The world of Diabas is small but densely packed, around 19,500mi in diameter. Before the advent of [[00. History & Events/Timeline\|The Shaping]], the world was one unified land mass, but it now has sizeable oceans splitting the eight countries between seven notable land masses and many smaller islands. Historically, each "country" had an equal, rectangular (when displayed on a flat map) boundary referred to as an octant. As such, each country can also geographically be referred to by which of these octants it largely resides in. Modern borders do not adhere strictly to these octants.
 
 [[01. Countries/\|See a list of countries here.]]
+#### Cosmology
+Diabas is located within the material plane, rewrite this wip
+
+[[13. Planes & Planar Cosmology/\|See a list of planes here.]]
 
 ### Ecology
 The flora and fauna of Diabas have come to enjoy their lives in this lightless realm. As a result there are many adaptations common between things which have greatly evolved over the course of the past 2,800 years.
@@ -37,9 +39,7 @@ A majority of animals have some tolerance to magic, either adapting to use it fo
 [[11. Flora & Fauna/\|See a list of Flora and Fauna here.]]
 
 ### Sociology
-At one point in history, different races were relatively isolated from eachother. This changed after The Melding happened, which forced these isolated civilizations to work together and create a melting pot of cultures.
-
-[[00. History & Events/Timeline\|See the Timeline here.]]
+At one point in history, different races were relatively isolated from each other. This changed after [[00. History & Events/Timeline\|The Melding]], which forced these isolated civilizations to work together and create a melting pot of cultures.
 
 ##### Sapient, Sentient, and Sophont Species
 All of these species still have remnants of their old cultures and may trend towards certain behaviors, speak certain languages, make culturally important foods and objects, or find themselves gravitating towards people who share their history. There will always be exceptions to this though, especially if an individual never grew up around those of their same species. 

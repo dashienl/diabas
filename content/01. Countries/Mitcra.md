@@ -1,1 +1,1 @@
-life
+Mitcra, known officially as the United People's Land of Mitcra (UPLM), is one of the eight major recognized countries on Diabas. Located in the second octant of the globe, it acts as the historical territory of the [[08. Gods & Demigods/Setlocenia (Life)\|Core of Life]]. Its capital is [[Enyhit]], while its largest city is [[Resveta Compound]]. 
