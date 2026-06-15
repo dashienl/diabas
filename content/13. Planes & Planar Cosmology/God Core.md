@@ -2,7 +2,7 @@
 publish: true
 title: God Core
 created: 2023-07-19T01:53:02.179-04:00
-modified: 2026-02-19T19:00:22.401-05:00
+modified: 2026-06-14T20:43:09.751-04:00
 cssclasses: ""
 ---
 
@@ -12,4 +12,4 @@ God Core is a place theorized to exist by many branches of the [[07. Spiritualit
 
 In reality, God Core is a finite plane bound to the shape of the Material plane which hosts the Core Gods. Close to the belief of the Worship, it is where they fled after Eibher's death, but it was not created and has always existed as the place where they originated before entering influence with the Material and other realms. Following her death, they locked the plane from entry and can not leave, instead electing to influence the material plane through hosting or divine images. 
 
-God Core is describe as a largely barren plane which the Core Gods may adapt or expand as necessary for their usage.
+God Core is described as a largely barren plane which the Core Gods may adapt or expand as necessary for their usage.

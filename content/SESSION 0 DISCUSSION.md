@@ -1,8 +1,9 @@
 ---
 publish: true
 title: Session 0
+draft: true
 created: 2026-06-13T18:30:55.490-04:00
-modified: 2026-06-13T20:56:22.149-04:00
+modified: 2026-06-14T20:40:20.649-04:00
 cssclasses: ""
 ---
 
